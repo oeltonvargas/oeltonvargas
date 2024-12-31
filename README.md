@@ -8,3 +8,5 @@
 ✝️ Christian
 🥋 BJJ brown belt
 👨🏽‍👩🏽‍👧🏽‍👧🏽 Giovana´s Dad
+
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white; elton.vargas@gmail.com
